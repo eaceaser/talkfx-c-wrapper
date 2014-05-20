@@ -1,0 +1,17 @@
+*.suo
+*.user
+
+Debug/
+Release/
+./x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
